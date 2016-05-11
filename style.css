@@ -1,6 +1,20 @@
 #display{
 margin-top:850px;
-Font:25pt Tahoma;
+margin-left:0px;
+Font:36pt Tahoma;
+color:#ffffff;
+background-image: url('images/lowerthird.png');
+background-repeat:no-repeat;
+height:140px;
+width:818px;
+padding-top:30px;
+padding-left:10px;
+}
+
+body{
+background-color:#66cc00;
+padding:0px;
+margin:0px;
 }
 
 textarea:focus, input:focus{
@@ -14,10 +28,11 @@ input{
 cursor:none !important;
 border:0px;
 color:transparent;
-/*background:#eee;*/
+background:transparent;
 }
 
 #gradtext{
-
+margin-top:30px;
+-webkit-animation-duration: .5s;
 
 }
