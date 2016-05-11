@@ -13,8 +13,8 @@ textarea:focus, input:focus{
 input{
 cursor:none !important;
 border:0px;
-/*color:transparent;*/
-background:#eee;
+color:transparent;
+/*background:#eee;*/
 }
 
 #gradtext{

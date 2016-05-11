@@ -32,7 +32,7 @@ function doneTyping () {
 				$(this).text(inputText);
 				$(this).css("visibility", "hidden");
 				$(this).removeClass('animated fadeOut');
-				$(this).css("visibility", "hidden");
+				//$(this).css("visibility", "hidden");
 				$(this).addClass('animated fadeIn').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
 					function(){
 						$(this).removeClass('animated fadeIn');
