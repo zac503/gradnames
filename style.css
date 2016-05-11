@@ -1,0 +1,23 @@
+#display{
+margin-top:850px;
+Font:25pt Tahoma;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+*:focus {
+    outline: none;
+}
+
+input{
+cursor:none !important;
+border:0px;
+/*color:transparent;*/
+background:#eee;
+}
+
+#gradtext{
+
+
+}
